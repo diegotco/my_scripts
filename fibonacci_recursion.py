@@ -19,7 +19,7 @@ def fib():
 
 fibonacci = fib()
 
-for i in range(2, 5):
+for i in range(2, 11):
     num = fibonacci()
     print(f'The {i}th Fibonacci number is {num}')
 
